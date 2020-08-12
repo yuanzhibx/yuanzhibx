@@ -1,4 +1,7 @@
 ### Hi there 👋
+> Hi I'm a Yuanzhibx
+
+- 🌱 I’m currently learning ...
 
 <!--
 **yuanzhibx/yuanzhibx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
