@@ -3,7 +3,7 @@
 
 🇨🇳 China JiNan
 
-![blog.yanbingxu.com](http://blog.yanbingxu.com/)
+[blog.yanbingxu.com](http://blog.yanbingxu.com/)
 
 <!--
 **yuanzhibx/yuanzhibx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
