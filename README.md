@@ -1,7 +1,9 @@
 ### Hi there 👋
 > Hi I'm a Yuanzhibx
 
- 🇨🇳  China JiNan
+ 🌱 &nbsp;&nbsp;I’m currently learning ...
+
+ 🇨🇳 &nbsp;&nbsp;China JiNan
 
 [blog.yanbingxu.com](http://blog.yanbingxu.com/)
 
